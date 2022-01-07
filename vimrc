@@ -3,4 +3,7 @@ filetype on
 set number
 set cursorline
 set cursorcolumn
-colorscheme darkblue		
+colorscheme koehler 
+set showmode
+set showmatch
+set incsearch		
